@@ -3,7 +3,7 @@
 
 namespace MedDhiia;
 
-use userame as Gaffa;
+use Username as Gaffa;
 
 class About extends Me
 {
