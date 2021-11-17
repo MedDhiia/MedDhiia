@@ -11,12 +11,11 @@ class About extends Me
     public function getKnowledge(): array
     {
         return [
-            Php::class,
-            Python::class,
             Laravel::class,
             Symfony::class,
+            Python::class,
             Vuejs::class,
-            Angular::class,
+            Flutter::class,
             Docker::class,
         ];
     }
